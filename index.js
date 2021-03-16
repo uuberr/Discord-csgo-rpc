@@ -84,18 +84,5 @@ gsi.on("all", function (data) {
         smallImageText: "testi"
     });
 });
-/*var MAP;
-gsi.on("gameMap", (map) => MAP = `Current map: ${map}`);
-gsi.on("gamePhase", (phase) => console.log(`gamePhase: ${phase}`));
-gsi.on("gameRounds", (rounds) => console.log(`gameRounds: ${rounds}`));
-gsi.on("gameCTscore", (score) => console.log(`gameCTscore: ${score}`));
-gsi.on("gameTscore", (score) => console.log(`gameTscore: ${score}`));
-gsi.on("roundWins", (wins) => console.log(`roundWins: ${roundWins}`));
-gsi.on("player", (player) => console.log(`player: ${player}`));
-gsi.on("roundPhase", (phase) => console.log(`roundPhase: ${phase}`));
-gsi.on("roundWinTeam", (team) => console.log(`roundWinTeam HUAT AH: ${team}`));
-gsi.on("bombState", (state) => console.log(`bombState: ${state}`));
-gsi.on("bombTimeStart", (time) => console.log(`bombTimeStart: ${time}`));
-gsi.on("bombExploded", () => console.log(`bombExploded`));
-gsi.on("bombTimeLeft", (time) => console.log(`bombTimeLeft: ${time}`));*/
+
 
